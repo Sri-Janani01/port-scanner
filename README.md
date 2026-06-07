@@ -13,6 +13,7 @@
 ---
 
 ## 📸 Preview
+<img width="641" height="449" alt="Screenshot 2026-06-07 at 4 32 53 PM" src="https://github.com/user-attachments/assets/503b9acc-7fc0-49ae-b346-26bb152a173e" />
 
 ---
 
